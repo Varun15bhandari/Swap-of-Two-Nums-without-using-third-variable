@@ -1,0 +1,11 @@
+consider a=5 and b=6
+using xor operator we can swap
+In xor operator even no of bits=0(zero) and odd no of bits=1
+a=a^b
+b=a^b  
+a=a^b
+
+using third variable
+temp=a
+a=b
+b=a
